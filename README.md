@@ -1,15 +1,19 @@
-### OSS 수업 관련
+### Programmer
 - Java programming
 - C programming
 
+### Interest
+- Machine learning
+- Opensource(git hub)
+- Computer etworking
+- Contribute to other's work
+
+Due to time constraints, I may not be able to visit often, but I will respond as quickly as possible!
 
 <!--
 **alex22054/alex22054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- Java programming
-- C programming
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
