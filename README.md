@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
--Java programming
--C programming
+- Java programming
+- C programming
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
