@@ -1,4 +1,7 @@
 ### OSS 수업 관련
+- Java programming
+- C programming
+
 
 <!--
 **alex22054/alex22054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
